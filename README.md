@@ -35,10 +35,10 @@ Please ensure your code snippets follow best practices, include clear comments, 
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code snippets while attributing the original repository.
+Feel free to use, modify, and distribute the code snippets while attributing the original repository.
 
 ## Contact
 
-For any queries, suggestions, or feedback related to this repository, feel free to reach out to [Your Name](mailto:your@email.com).
+For any queries, suggestions, or feedback related to this repository, feel free to reach out to [ME](linkedin.com/in/oyinkansola-olabode).
 
 Happy coding and learning with AWS!
