@@ -39,6 +39,6 @@ Feel free to use, modify, and distribute the code snippets while attributing the
 
 ## Contact
 
-For any queries, suggestions, or feedback related to this repository, feel free to reach out to [ME](linkedin.com/in/oyinkansola-olabode).
+For any queries, suggestions, or feedback related to this repository, feel free to reach out to [ME](https://linkedin.com/in/oyinkansola-olabode).
 
 Happy coding and learning with AWS!
