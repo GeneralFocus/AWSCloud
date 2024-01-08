@@ -1,0 +1,7 @@
+Resources:
+  MyInstance:  # Resource logical name
+    Type: AWS::EC2::Instance  # Specifies the type of AWS resource (EC2 instance)
+    Properties:
+      AvailabilityZone: us-east-1a  # Specifies the availability zone for the instance
+      ImageId: ami-a4c7edb2  # The ID of the Amazon Machine Image (AMI) used for the instance
+      InstanceType: t3.micro  # The instance type (t3.micro - a type of small, general-purpose instance)
