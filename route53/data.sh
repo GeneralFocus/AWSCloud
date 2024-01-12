@@ -12,3 +12,4 @@ else
     EC2_AVAIL_ZONE="$(TOKEN=`curl -s -X PUT "your_url" -H "X-aws-ec2-metadata-token-ttl-seconds: 21600"` && curl -s -H "X-aws-ec2-metadata-token: $TOKEN" your_url)"
 fi
 echo "<h1>Hello world from $(hostname -f) in AZ $EC2_AVAIL_ZONE </h1>" > /var/www/html/index.html
+
