@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Static S3 WebPage</title>
+    </head>
+    <body>
+        <h1>Hello World</h1>
+        <p>Is all about the good life!</p>
+    </body>
+
+    <img src="image/dir" width=500/>
+
+    <!-- CORS demo -->
+    <div id="tofetch"/>
+    <script>
+        var tofetch = document.getElementById("tofetch");
+
+        fetch('url')
+        .then((response) => { 
+            return response.text();
+        })
+        .then((html) => {
+            tofetch.innerHTML = html     
+        });
+    </script>
+</html>
+
